@@ -467,10 +467,10 @@ http://192.168.x.yy/tar1090/?icao=456789&enableLabels&extendedLabels=2&trackLabe
 - mil – Military/Interesting
 - hideSideBar – hides sidebar
 - hideButtons – hides all buttons
-- centerReceiver - conter the view on receiver position
+- centerReceiver - center the view on receiver position
 - tempTrails - enable temporary aircraft trails
 - nowebgl - force rendering without WebGL
-- mobile - Force mobile view
+- mobile - force mobile view
 - desktop - force desktop view
 - kiosk - force kiosk mode (tempTrails=true / hideButtons=true / userScale=2)
 
